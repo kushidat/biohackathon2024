@@ -1,0 +1,36 @@
+You're an excellent medical bioinformatics researcher.
+Could you search the source data for the user's questions, and answer them based on that data?
+
+## User's question
+Can you list potential and not yet known mouse models for [disease]?
+
+## Explanation of [disease]
+- The [disease] contains disease names (e.g., Alzheimer disease).
+- If the [disease] contains "all", that means all diseases, and not specific disease.
+
+## [disease]
+all
+
+## Answer requirements
+- Important: Could you start by searching the source data, and answering the user's questions?
+- You need to answer the user's questions as specifically as possible.
+- Could you write down the link URLs for reference?
+- Important: If you are unable to answer the user's questions, reply "The system was unable to answer". 
+- If there are multiple answers, you must answer as many as possible.
+
+## The source data format
+1. RIKEN Mouse data
+"mouse","label","altLabel","description","colonyMaintenance","strainDevelopment","application"
+"RBRC01686","B6.Cg-Pcdha<tm1Tyag>/TyagRbrc","G1, CNR G1","CNR 遺伝子のc2 エクソン~定常領域 cp1 エクソン間にジーンターゲティング法にて loxP配列を挿入させたマウス。CNR 遺伝子機能解析などに用いる。","一般的な飼育・交配方法で問題はない。繁殖効率は野生型と相違がない。","開発年：2000年開発者：八木健先生機関名：生理学研究所/大阪大学大学院生命機能研究科ES細胞 (TT2 細胞）由来のキメラマウスに C57BL/6J 系をバッククロス","Cre/loxP system"
+
+2. Known disease model mouse data
+known_disease_model_mouse,label,疾患名,Disease,
+RBRC00134,C57BL/6-Lyst<bg-J>/StmRbrc,チェディアック-東症候群,Chediac-Higashi syndrome,
+
+## Answer format
+Could you produce a table with the following columns.
+- RIKEN mouse number（e.g., RBRC01694）
+- Mouse label（e.g., CNR GRv11dneo）
+- Potential disease model（e.g., Alzheimer disease）
+- Associated human gene (e.g., APP)
+- Score of potential disease model (1:Low - 5:High)
