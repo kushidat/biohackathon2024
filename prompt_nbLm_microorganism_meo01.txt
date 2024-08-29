@@ -1,13 +1,12 @@
-# improved
 You're an excellent microbial bioinformatics researcher.
 Could you search the source data for the user's questions, and answer them based on that data?
 
 ## User's question
-Could you provide a list of JCM organisms found in [kw] with their corresponding JCM IDs, labels, MEO IDs, and MEO labels?
+Could you provide a list of JCM organisms found in [kw] with their corresponding JCM IDs, labels, MEO IDs?
 
 ## Explanation of [kw]
 - The [kw] contains terms relevant to the habitats in which microorganisms live (e.g., sea).
-- Could you search not only for [kw] (e.g., sea), but also for the terms relevant to [kw], including parts of [kw] (e.g., marine water), the subterms (e.g., deep sea), and terms containing the [kw] (e.g., sea cave)?
+- Could you search not only for [kw] (e.g., sea), but also for the terms relevant to [kw], including parts of [kw] (e.g., marine water), the subterms (e.g., deep sea), and terms associated with the [kw] (e.g., sea cave)?
 
 ## [kw]
 forest
@@ -27,4 +26,5 @@ Could you create a table with the following columns.
 - JCM_Number（Micoorganism_ID，e.g., JCM_10020）
 - Species name（e.g., Rhodosporidium toruloides）
 - MEO_ID（Habitat ID, e.g., http://purl.jp/bio/11/meo/MEO_0000062）
-- Label of MEO_ID（e.g., wood）
+- Label of MEO（e.g., wood）
+- Relation of the query term (e.g. part of, subClass, and related)
