@@ -1,0 +1,37 @@
+﻿RIKEN mouse number,Mouse label,Potential disease model,Associated human gene,Score of potential disease model,True or False
+RBRC01736,CFO-hea/+,Anemia,TTC7 or FSN,4,TRUE
+RBRC02716,B6.129X1-Plce1,Cancer,PLCE1,3,TRUE
+RBRC03557,B6C3.129P2-Myog,Muscular dystrophy,MYOG,4,TRUE
+RBRC03654,B6;129-Arx/7-1Rbrc,Lissencephaly,ARX,5,TRUE
+RBRC03656,B6;129-Arx/7-2Rbrc,Lissencephaly,ARX,5,TRUE
+RBRC03657,C3;129(B6)-Arx/7-2Rbrc,Lissencephaly,ARX,5,TRUE
+RBRC03710,C57BL/6Cr-Tg(Pcp2-HA/ATXN3*69Q)1Hirai,Spinocerebellar ataxia 3,ATXN3,5,TRUE
+RBRC10077,B6;Cg-Ddx41,Myelodysplastic syndromes,DDX41,5,TRUE
+RBRC10901,C57BL/6J-P2rx4,Cardiovascular disease,P2RX4,4,TRUE
+RBRC10902,C.CD2-Tcra-V10 Tcrb-V5/Ogu,Allergies,,5,False (known)
+RBRC10903,C.CD2-Tcra-V10 Tcrb-V31/Ogu,Allergies,,5,False (known)
+RBRC11101,C57BL/6J-Slc27a4,Ichthyosis congenita,SLC27A4,5,known as disease model of Ichthyosis prematurity syndrome
+RBRC11145,MXH51/Mo-lpr/lpr,Lupus,,5,known as disease model of Sjogren's syndrome
+RBRC11152,MXH7/Mo-lpr/lpr,Lupus,,5,known as disease model of Sjogren's syndrome
+RBRC11153,MXH10/Mo-lpr/lpr,Lupus,,5,known as disease model of Sjogren's syndrome
+RBRC11158,McH/Mo-Ank.Y,Ankylosing spondylitis,FGFR2,5,known as disease model of Sjogren's syndrome
+RBRC11160,McH/Mo-lpr/lpr-RA1,Rheumatoid arthritis,,5,known as disease model of Sjogren's syndrome
+RBRC11279,B6D2-Tg(HTT<*>/EGFP)120Nn,Huntington disease,HTT,5,TRUE
+RBRC11281,B6D2-Tg(HTT<*>/EGFP)190Nn,Huntington disease,HTT,5,False (known)
+RBRC11289,B6.129-Btg3,Cancer,BTG3,3,TRUE
+RBRC11303,B6N-Cdh23,Usher syndrome type 1,CDH23,5,False (known)
+RBRC11311,B6N.B6J-Impa1/Rmps,Bipolar disorder,IMPA1,5,known as disease model of Inositol depletion
+RBRC11505,B6N-Smgc,Salivary gland dysfunction,SMGC,5,TRUE
+RBRC11547,B6-Ntrk1,Bipolar disorder,NTRK1,5,False (known)
+RBRC11548,B6-Ntrk1/KN2,Bipolar disorder,NTRK1,5,False (known)
+RBRC11557,B6.129S-Ostn,Bone development disorders,OSTN,5,TRUE
+RBRC11565,C.Cg-Ace2,COVID-19,ACE2,5,TRUE
+RBRC11617,C57BL/6N-Prxl2b,Glaucoma,PRXL2B,5,TRUE
+RBRC11619,C57BL/6N-Txn1,Oxidative stress,TXN1,4,TRUE
+RBRC11808,C57BL/6-Tg(CAG-hAPP770)Skita Tg(Tek-cre)1Ywa,Alzheimer's Disease,APP,5,False (known)
+,,,,,
+"Here is a table containing information about potential mouse models for all diseases found in the provided sources, formatted according to your specifications:",,,,,
+This table contains mouse models identified as potentially relevant to specific diseases based on their descriptions in the sources.,,,,,
+"The ""Score of potential disease model"" column is not based on information found in the sources provided and was generated based on general knowledge. You may wish to verify this information independently. I have italicized the gene names for readability.",,,,,
+,,,,,
+,,precision = ,0.766666667,(23/30),
