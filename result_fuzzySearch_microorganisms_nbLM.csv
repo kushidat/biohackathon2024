@@ -1,0 +1,51 @@
+﻿JCM Organisms Found in Forest Environments
+JCM_Number,Species Name,MEO_ID,Label of MEO_ID
+JCM_10020,Rhodosporidium toruloides,http://purl.jp/bio/11/meo/MEO_0000062,wood
+JCM_12666,Tetrapisispora namnaoensis,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_12733,Aspergillus ornatus,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_12733,Sclerocleista ornata,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_12831,Micromonospora aurantiaca,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_12832,Micromonospora chalcea,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_12867,Planotetraspora silvatica,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_15647,Geomicrobium halophilum,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_16014,Catenulispora yoronensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_17626,Pedobacter jeongneungensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_17626,Pedobacter jeongneungensis,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_17700,Actinoplanes atraurantiacus,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_17936,Planotetraspora kaengkrachanensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_17937,Planotetraspora phitsanulokensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_18003,Kitasatospora kifunensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_18863,Bacillus thaonhiensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_18956,Frondihabitans cladoniiphilus,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_19065,Rummeliibacillus suwonensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_19985,Burkholderia jirisanensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_21000,Myxococcus fulvus,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_21001,Myxococcus fulvus,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_21002,Myxococcus flavescens,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_21785,Streptomyces vietnamensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_22076,Pichia lindneri,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_22076,Pichia minuta var. minuta,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_23164,Acremonium humicola,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_23164,Paecilomyces humicola,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_23164,Sagrahamala humicola,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_2747,Glonium lineare,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_2749,Glonium macrosporum,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_2750,Glonium macrosporum,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_2751,Glonium macrosporum,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_30363,Mucilaginibacter vulcanisilvae,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_30516,Pythium macrosporum,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_31293,Arvibacter flaviflagrans,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_31801,Sphingomonas silvisoli,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_32112,Prototheca paracutis,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_32370,Muriicola soli,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_32370,Muriicola soli,http://purl.jp/bio/11/meo/MEO_0000091,forest
+JCM_32822,Streptomyces soli,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_32823,Microbacterium sulfonylureivorans,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_33640,Paraburkholderia flava,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_34515,Metabacillus bambusae,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_39030,Mortierella parvispora,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_39259,Myxococcus dinghuensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_39260,Myxococcus guangdongensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_39261,Pyxidicoccus xibeiensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+JCM_39262,Myxococcus qinghaiensis,http://purl.jp/bio/11/meo/MEO_0000126,forest soil
+"The provided sources include information on JCM organisms and their corresponding MEO IDs and labels. Several organisms are associated with the ""forest soil"", ""forest"" and ""wood"" labels."
