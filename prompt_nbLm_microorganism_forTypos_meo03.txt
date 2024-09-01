@@ -1,0 +1,34 @@
+You're an excellent microbial bioinformatics researcher.
+Could you search the source data for the user's questions, and answer them based on that data?
+
+## User's question
+Could you provide a list of JCM organisms found in [kw] with their corresponding JCM IDs, labels, MEO IDs?
+
+## Explanation of [kw]
+- The [kw] contains terms relevant to the habitats in which microorganisms live (e.g., sea).
+- Could you search not only for [kw] (e.g., sea), but also for the terms relevant to [kw], including parts of [kw] (e.g., marine water), the subterms (e.g., deep sea), and terms related with the [kw] (e.g., sea cave)?
+If typos or misspelings is though to occurs in the [kw], revice the correct word refering the source data (e.g., see).
+
+## [kw]
+forst
+
+## Answer requirements
+- Important: Could you start by searching the source data, and answering the user's questions?
+- You need to answer the user's questions as specifically as possible.
+- Could you write the link URLs as a reference.
+- Important: If you are unable to answer the user's questions, reply "The system was unable to answer". 
+- If there are multiple answers, you need to answer as much as possible.
+
+## The source data format
+"JCM_10020","Rhodosporidium toruloides","http://purl.jp/bio/11/meo/MEO_0000062","wood",,,,
+
+## Answer format
+Could you start by displaying the total number of results?
+And could you make a table with the following columns?
+If the number exceeds 30 cases, you first provide 30 cases.
+- JCM_Number（Micoorganism_ID，e.g., JCM_10020）
+- Species name（e.g., Rhodosporidium toruloides）
+- MEO_ID（Habitat ID, e.g., http://purl.jp/bio/11/meo/MEO_0000062）
+- Label of MEO（e.g., wood）
+- Relation of the query term (e.g. part of, subClass, and related)
+
